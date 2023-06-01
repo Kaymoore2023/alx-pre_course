@@ -1,2 +1,2 @@
-My first readme
+Minutes no bastard
 This is my second readme
